@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 52225929b4ddb14aa76832403efc2da70a5beb81 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1616586870 +0100	branch: Created from develope
+52225929b4ddb14aa76832403efc2da70a5beb81 766dedf8481c6b72f15f77592a0c75eb6dd43a21 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1616588467 +0100	commit: Se guarda el rol con el que se hace una transaccion y se muestra en las tablas

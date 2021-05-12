@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7016c8f12bcb7ddcf34ce17ce509adafd6e2ad8c Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1619694099 +0200	Branch: US16-T01 created @ 7016c8f12bcb7ddcf34ce17ce509adafd6e2ad8c
+7016c8f12bcb7ddcf34ce17ce509adafd6e2ad8c ad44f3515f334716e0c23983bd54627ad9619dae Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1619696915 +0200	commit: Controlar si una iso forma parte del proyecto en progreso
+ad44f3515f334716e0c23983bd54627ad9619dae 4523c14f860dc0b1b12eab3e9204c386f7598df4 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1619783131 +0200	commit: Control de progreso individual, arreglo de warnings.
+4523c14f860dc0b1b12eab3e9204c386f7598df4 db8a437cbdcc3a159ae5d558846960a88015ddf8 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620116508 +0200	commit: Control de progresos reflejado en la tabla de progreso.
+db8a437cbdcc3a159ae5d558846960a88015ddf8 92afb254a1b2072e58fdca3f576c3eecc648891e Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620122368 +0200	commit: Vistas en funcion de progreso y  LDE

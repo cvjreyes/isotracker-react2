@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 b277d2fb183ced92a662d3c9fe06bb393483ebf9 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1614590522 +0100	clone: from https://github.com/cvjreyes/isotracker-react.git
+b277d2fb183ced92a662d3c9fe06bb393483ebf9 e143be2ad3e27d61e0a921760e9d33e70d8ca2f1 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1614773780 +0100	commit: Formulario de login con auth
+e143be2ad3e27d61e0a921760e9d33e70d8ca2f1 71544fbdca95849bff4544113f1b52988b65aea6 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1614862435 +0100	commit: login funcional redirige a isotracker
+71544fbdca95849bff4544113f1b52988b65aea6 369a43a115be5b02d29f2377fc10da01b5a8c5f2 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618911860 +0200	commit (merge): Merge branch 'dev'
+369a43a115be5b02d29f2377fc10da01b5a8c5f2 0538eb0bf4645f6583ed70f9d4f1cd8416e3a2aa Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618916366 +0200	commit (merge): Merge branch 'dev'
+0538eb0bf4645f6583ed70f9d4f1cd8416e3a2aa 50d6a9955267f3df8b46720e954c47b18c61337c Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1619085316 +0200	commit (merge): Merge branch 'dev'
+50d6a9955267f3df8b46720e954c47b18c61337c b645297616768ce306ccb4828ce09e544d69405c Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1619177495 +0200	commit (merge): Merge branch 'dev'
+b645297616768ce306ccb4828ce09e544d69405c 2c40c08201c12c3cfd5323a5f2588e1e63bae6b6 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620122760 +0200	commit (merge): Merge branch 'dev'
+2c40c08201c12c3cfd5323a5f2588e1e63bae6b6 26ef89302288dd7fb8c89cabbf51caf8b94da6fd Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620636811 +0200	commit (merge): Merge branch 'dev'
+26ef89302288dd7fb8c89cabbf51caf8b94da6fd 93eed03ed38fa310728ebe8dbc4cebddab42b0cb Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620726529 +0200	commit (merge): Merge branch 'dev'
+93eed03ed38fa310728ebe8dbc4cebddab42b0cb 34a41e479514210e14bfcc675dbf9d8694cc7726 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620816616 +0200	commit (merge): Merge branch 'dev'
+34a41e479514210e14bfcc675dbf9d8694cc7726 3eff9371b9b2fdc7ba6502a216dbe0ccfc398c95 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1620819141 +0200	commit: WIP

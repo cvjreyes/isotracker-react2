@@ -1,0 +1,76 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/cvjreyes/isotracker-react.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "userregister"]
+	remote = origin
+	merge = refs/heads/userregister
+[branch "US10-T04"]
+	remote = origin
+	merge = refs/heads/US10-T04
+[branch "dragAndDrop"]
+	remote = origin
+	merge = refs/heads/dragAndDrop
+[branch "DropzoneUploader"]
+	remote = origin
+	merge = refs/heads/DropzoneUploader
+[branch "US08-T04"]
+	remote = origin
+	merge = refs/heads/US08-T04
+[branch "getRole"]
+	remote = origin
+	merge = refs/heads/getRole
+[branch "develope"]
+	remote = origin
+	merge = refs/heads/develope
+[branch "US05"]
+	remote = origin
+	merge = refs/heads/US05
+[branch "US09-T04"]
+	remote = origin
+	merge = refs/heads/US09-T04
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[branch "US14-T01"]
+	remote = origin
+	merge = refs/heads/US14-T01
+[branch "US06-T02"]
+	remote = origin
+	merge = refs/heads/US06-T02
+[branch "US06-T03"]
+	remote = origin
+	merge = refs/heads/US06-T03
+[branch "US13"]
+	remote = origin
+	merge = refs/heads/US13
+[branch "sorter_fix"]
+	remote = origin
+	merge = refs/heads/sorter_fix
+[branch "StatusHistory"]
+	remote = origin
+	merge = refs/heads/StatusHistory
+[branch "US07"]
+	remote = origin
+	merge = refs/heads/US07
+[branch "Download"]
+	remote = origin
+	merge = refs/heads/Download
+[branch "LoadingAlert"]
+	remote = origin
+	merge = refs/heads/LoadingAlert
+[branch "US08-T04-v2"]
+	remote = origin
+	merge = refs/heads/US08-T04-v2
+[branch "pruebagit"]
+	remote = origin
+	merge = refs/heads/pruebagit

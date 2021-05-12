@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 1c416e4e72a38900adb4ec7be82b6b043f9b1e6f Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617952205 +0200	branch: Created from dev
+1c416e4e72a38900adb4ec7be82b6b043f9b1e6f 90ffdbb4492efd3abcab4e23d1c3aed81cd7ae4b Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617968772 +0200	commit: Tabla p/i, posibilidad de claim para procesos
+90ffdbb4492efd3abcab4e23d1c3aed81cd7ae4b 418d5b522129344165664a317c47903d429b56d9 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618228895 +0200	commit: WIP aceptar iso P/I
+418d5b522129344165664a317c47903d429b56d9 545e400f3db4043eeb1bd0fd0b645d2dd5d615df Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618311544 +0200	commit: Aceptar/denegar en p/i
+545e400f3db4043eeb1bd0fd0b645d2dd5d615df 052a6f911ef14587fcb3f60655fc922fc9da3809 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618313747 +0200	commit: Semaforos
+052a6f911ef14587fcb3f60655fc922fc9da3809 44f1928b6f64bb9f102eb016a0a1604c869b1a0b Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618314536 +0200	commit: Vista tabla mejorada
+44f1928b6f64bb9f102eb016a0a1604c869b1a0b bff2f33c5a125871fc6f0a40fd059b240b2a02fa Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618398654 +0200	commit: Botones de p/i en common trays desactivados, tabla de history mejorada
+bff2f33c5a125871fc6f0a40fd059b240b2a02fa f9a4fa4bb7d89af463c98e384c102015e6ce84f7 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1618478885 +0200	commit: Cambios en actionbtns para adaptar el flujo

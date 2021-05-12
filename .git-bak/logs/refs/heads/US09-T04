@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 630eb81c6b2bfd3bf4f7f980b77e01a26a5b2ba9 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617103488 +0200	branch: Created from develope
+630eb81c6b2bfd3bf4f7f980b77e01a26a5b2ba9 4d77c4e3e9eb6d059eec49ccabbe77cf4bb0fa02 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617105330 +0200	commit: Boton de upload individual de mytray y popup
+4d77c4e3e9eb6d059eec49ccabbe77cf4bb0fa02 7ff019edd9b6b4c612dd2640646b69e5d71f222e Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617191578 +0200	commit: Upload de cualquier archivo relacionado con la iso funcional
+7ff019edd9b6b4c612dd2640646b69e5d71f222e 4b802d13971b9cc1ac7b271646840cee32cb646b Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617263247 +0200	commit: Arreglado error que solo permitia actualizar master
+4b802d13971b9cc1ac7b271646840cee32cb646b c1ef90b3abd6231ff7f78089554fbcdf5a057363 Alex Domínguez Ortega <alex.dominguez-ortega@external.technipenergies.com> 1617268346 +0200	commit: Backups de master
